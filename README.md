@@ -25,7 +25,9 @@ Friends can view posts in the news feed.
 
 Users can like posts.
 
-Project Structure:<img width="448" height="435" alt="image" src="https://github.com/user-attachments/assets/b6b5e00f-1816-495c-b496-112a2651246b" />
+Project Structure:
+
+<img width="448" height="435" alt="image" src="https://github.com/user-attachments/assets/b6b5e00f-1816-495c-b496-112a2651246b" />
 
 Output:<img width="1095" height="440" alt="image" src="https://github.com/user-attachments/assets/559413fa-0bdc-438e-9c04-40238656e600" />
 
